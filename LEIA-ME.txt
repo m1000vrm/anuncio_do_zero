@@ -1,0 +1,17 @@
+KIT ANÚNCIO DO ZERO — MENDEZ DIGITAL
+
+CHECKOUT CONFIGURADO:
+https://pay.cakto.com.br/5ci5emf_1093944
+
+ARQUIVOS:
+- index.html = página principal
+- styles.css = visual
+- script.js = comportamento
+- logo-mendez-digital.png = logo
+
+PREÇO CONFIGURADO NA PÁGINA: R$ 19,99
+
+ANTES DE PUBLICAR:
+1. Faça upload de todos os arquivos juntos para sua hospedagem.
+2. Teste todos os botões no celular.
+3. Se usar Pixel/UTM, adicione seu código de rastreamento antes de publicar.
